@@ -1,9 +1,9 @@
 ---
 title: "Jiani Liu: Professional Resume"
-# 关键修改：使用 archive 布局，该布局不强制加载侧边栏
-layout: archive 
+layout: single   # <--- 使用最标准的单页布局
 permalink: /resume/
-classes: wide 
+classes: wide  # <--- 使用宽版样式
+# sidebar: none  # <--- 这行现在可以省略或保留，但不再是关键
 ---
 
 ## 🙋 General Information
