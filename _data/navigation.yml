@@ -1,4 +1,6 @@
 main:
+  - title: "Resume"  # <-- 添加这一行
+    url: /resume/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
