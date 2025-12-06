@@ -4,7 +4,7 @@ title: "Jiani Liu: Professional Resume"
 layout: archive 
 permalink: /resume/
 classes: wide 
-# ---
+---
 
 ## 🙋 General Information
 <table class="table-striped">
