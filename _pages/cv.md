@@ -9,11 +9,28 @@ classes: wide
 ---
 
 ## 🙋 General Information
-| Field | Detail |
-| :--- | :--- |
-| **Full Name** | Liu Jiani |
-| **Location** | Singapore |
-| **Languages** | English (Business), Chinese (Native), Cantonese (Basic)
+<table class="table-striped">
+  <thead>
+    <tr>
+      <th>Field</th>
+      <th>Detail</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Full Name</strong></td>
+      <td>Liu Jiani</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Singapore</td>
+    </tr>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>English (Business), Chinese (Native), Cantonese (Basic)</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
