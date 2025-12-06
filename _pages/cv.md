@@ -4,6 +4,8 @@
 title: "Jiani Liu: Professional Resume"
 layout: single
 permalink: /resume/
+classes: wide
+sidebar: none
 # Set this page to be included in the sidebar navigation
 classes: wide
 ---
