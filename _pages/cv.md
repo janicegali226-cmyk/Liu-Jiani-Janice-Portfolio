@@ -1,14 +1,10 @@
 ---
-# Minimal Mistakes Page Front Matter:
-# Must include these key fields
 title: "Jiani Liu: Professional Resume"
-layout: single
+# 关键修改：使用 archive 布局，该布局不强制加载侧边栏
+layout: archive 
 permalink: /resume/
-classes: wide
-sidebar: none
-# Set this page to be included in the sidebar navigation
-classes: wide
----
+classes: wide 
+# ---
 
 ## 🙋 General Information
 <table class="table-striped">
