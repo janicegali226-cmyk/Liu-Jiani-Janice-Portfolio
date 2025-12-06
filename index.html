@@ -1,36 +1,34 @@
 ---
-# 关键修改：将 layout 更改为 single 或 splash
-# single/wide 布局可以确保内容不被侧边栏挤压
-layout: single
-classes: wide
+# 关键修改：使用 splash 布局，并禁用侧边栏
+layout: splash 
 permalink: /
-sidebar: none         # <--- 禁用默认侧边栏，解决重叠和固定问题
-# 移除 author_profile: true，以防止它自动生成侧边栏
+sidebar: none
+classes: wide
 
-# 以下是Minimal Mistakes模版要求的Front Matter，请保留
+# Minimal Mistakes Front Matter
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-
+  
 # --- 您的首页 Front Matter 结束 ---
 ---
-<div class="feature__wrapper">
-    <div class="feature__item" style="max-width: 300px; padding: 20px;">
-        <p style="text-align: center; margin-top: 0;">
-            <img src="assets/images/photo" alt="Jiani Liu" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
-        </p>
-    </div>
 
-    <div class="feature__item" style="padding: 20px;">
-        <h1 style="border-bottom: none; margin-top: 0;">I'm Jiani Liu</h1>
-        <p><strong>Master's student focusing on Business Analytics, with strong internship experience in Data Analysis and Product Operations.</strong></p>
-        
-        <p>Hello, I’m Liu Jiani. I am currently pursuing a Master’s in Business Analytics at Nanyang Technological University, following a Bachelor’s in Finance.
-  With internship experiences across various industries, including PwC, POIZON Global etc, I've learned to adapt quickly, collaborate across functions, 
-  and thrive in dynamic environments. I love diving into data and turning them into meaningful insights and business impact. Welcome to my website including 
-  my basic information and a series of projects.</p>
-        
-        <a href="/resume/" class="btn btn--primary">View Resume</a>
-        <a href="https://github.com/janicegali226-cmyk" class="btn btn--info">View GitHub</a>
+<div class="feature__wrapper">
+    <div style="max-width: 1000px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; padding: 2em 0;">
+
+        <div style="flex: 1 1 35%; text-align: center; padding: 1em;">
+            <img src="/assets/images/my-avatar.jpg" alt="Jiani Liu" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; margin-bottom: 1em;">
+        </div>
+
+        <div style="flex: 1 1 60%; padding: 1em;">
+            <h1 style="border-bottom: none; margin-top: 0;">I'm Jiani Liu</h1>
+            
+            <p><strong>Master's student focusing on Business Analytics, with strong internship experience in Data Analysis and Product Operations.</strong></p>
+            
+            <p>Hello! I am Jiani Liu. I am currently pursuing a Master's in Business Analytics at Nanyang Technological University, following a Bachelor's in Finance. With internship experiences across various industries, including PwC and POIZON Global, I've learned to adapt quickly, collaborate across functions, and thrive in dynamic environments. I love diving into data and turning them into impact. Welcome to my website!</p>
+            
+            <a href="/resume/" class="btn btn--primary">View Resume</a>
+            <a href="https://github.com/janicegali226-cmyk" class="btn btn--info">View GitHub</a>
+        </div>
     </div>
 </div>
