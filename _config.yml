@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Liu Jiani's Porfolio
+email: JLIU068@e.ntu.edu.sg
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello, I’m Liu Jiani. I am currently pursuing a Master’s in Business Analytics at Nanyang Technological University, following a Bachelor’s in Finance.
+  With internship experiences across various industries, including PwC, POIZON Global etc, I've learned to adapt quickly, collaborate across functions, 
+  and thrive in dynamic environments. I love diving into data and turning them into meaningful insights and business impact. Welcome to my website including 
+  my basic information and a series of projects.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
