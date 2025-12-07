@@ -1,7 +1,7 @@
 # _data/projects.yml
 - title: "US Car Accident Tableau Dashboard"
   excerpt: "This project involved creating an interactive Tableau dashboard for a comprehensive analysis of U.S. car accidents, visualizing their distribution and the influence of environmental and road factors on accident severity."
-  image: /assets/images/tableau.jpg
+  image: assets/images/tableau.png
   link: https://github.com/janicegali226-cmyk/US-traffic-accident-analysis
   tags: [Tableau, Data Viz, Python]
 
