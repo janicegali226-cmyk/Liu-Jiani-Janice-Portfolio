@@ -3,10 +3,10 @@
   excerpt: "This project involved creating an interactive Tableau dashboard for a comprehensive analysis of U.S. car accidents, visualizing their distribution and the influence of environmental and road factors on accident severity."
   image: assets/images/tableau.png
   link: https://github.com/janicegali226-cmyk/US-traffic-accident-analysis
-  tags: [Tableau, Data Viz, Python]
+  tags: [Tableau, Data Visualization, Python]
 
-- title: "Streamlit FinTech App"
+- title: "Streamlit Industry Data Dashboard"
   excerpt: "Built a Python Streamlit dashboard to demonstrate loan risk prediction using a public machine learning model."
-  image: /assets/images/streamlit-app.jpg
-  link: https://janicegali226-cmyk.github.io/streamlit-app-link/
-  tags: [Python, Streamlit, ML]
+  image: assets/images/streamlit1.jpg
+  link: https://github.com/janicegali226-cmyk/industry-streamlit-dashborad
+  tags: [Python, Streamlit, Data Visualization]
