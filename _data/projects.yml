@@ -3,8 +3,8 @@
 - title: "US Car Accident Tableau Dashboard"
   excerpt: "This project involved creating an interactive Tableau dashboard for a comprehensive analysis of U.S. car accidents, visualizing their distribution and the influence of environmental and road factors on accident severity."
   image: /assets/images/tableau.jpg  # 卡片上显示的图片路径
-  link: https://github.com/YourUsername/tableau-project-repo  # <-- 关键：外部链接
-  tags: [Tableau, Data Viz]
+  link: https://github.com/janicegali226-cmyk/US-traffic-accident-analysis  # <-- 关键：外部链接
+  tags: [Tableau, Data Viz, Python]
 
 - title: "Streamlit FinTech App"
   excerpt: "Built a Python Streamlit dashboard to demonstrate loan risk prediction using a public machine learning model."
