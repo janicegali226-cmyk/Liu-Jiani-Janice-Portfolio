@@ -83,7 +83,3 @@ classes: wide  # <--- 使用宽版样式
 
 ---
 
-## 💻 Projects (Placeholder)
-
-* You can create a separate page under the `_pages/` directory named `projects.md` to list your projects, and link to them here.
-* Example: [Project Title: al-folio](https://github.com/alshedivat/al-folio) (2015-now) - A beautiful, simple, clean, and responsive Jekyll theme for academics.
