@@ -7,6 +7,6 @@
 
 - title: "Streamlit Industry Data Dashboard"
   excerpt: "Built a Python Streamlit dashboard to demonstrate loan risk prediction using a public machine learning model."
-  image: assets/images/streamlit1.jpg
+  image: assets/images/streanlit.png
   link: https://github.com/janicegali226-cmyk/industry-streamlit-dashborad
   tags: [Python, Streamlit, Data Visualization]
