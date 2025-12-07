@@ -10,3 +10,9 @@
   image: assets/images/streamlit.png
   link: https://github.com/janicegali226-cmyk/industry-streamlit-dashborad
   tags: [Python, Streamlit, Data Visualization]
+
+- title: "Sentiment Analysis on ESG Related News"
+  excerpt: "This project leverages sentiment analysis alongside clustering and machine-learning models to uncover how public ESG narratives and firm-level factors jointly shape companies’ ESG scores."
+  image: assets/images/esg.png
+  link: https://github.com/janicegali226-cmyk/sentiment-analysis-on-ESG-news
+  tags: [Python, Machine Learning]
