@@ -19,6 +19,6 @@
 
 - title: "Marketing Optimization through Customer Segmentation and Predictive Modeling"
   excerpt: "This project analyzes a marketing campaign dataset of approximately 2,000 customers to identify factors influencing spending and promotional response."
-  image: assets/images/esg.png
+  image: assets/images/ecommerce.png
   link: https://github.com/janicegali226-cmyk/E-commerce-Marketing-Optimization-Project
   tags: [Python, R, K-means Clustering, Data Visualization]
