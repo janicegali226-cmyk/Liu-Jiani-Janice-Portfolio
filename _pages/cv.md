@@ -47,6 +47,12 @@ classes: wide  # <--- 使用宽版样式
 
 ## 💼 Internship Experience
 
+### **Growth Operation Intern**
+**OSL Pay, Singapore** | *2025/12 – 2026/03*
+* Analyzed dynamic fiat-to-crypto rates fluctuations on mainstream platforms in currency market such as USD market, detect market trends and collaborate with marketing teams to design personalized campaigns.
+* Established a weekly research mechanism and set a 1.2% benchmark for customer churn, and **build a pricing model** to ensure that the core pricing deviation is within 0.1%, significantly enhancing user retention while ensuring profits.
+* Developed a **Fiat Testing SOP** to standardize cross-border user testing requirements, reducing communication friction and increasing the reliability of pricing data inputs.
+
 ### **International User Reach Product Operations Intern**
 **POIZON Global (DEWU), Shanghai China** | *2025/03 – 2025/06*
 * Analysed and improved international merchant outreach channels by developing **standardized operating procedures (SOPs)** and optimising outreach picture design by Canva, which increased operational efficiency by 35% and established quality control benchmarks.
