@@ -25,6 +25,6 @@
 
 - title: "CDC Voucher System"
   excerpt: "This project developed a system for Singaporean residents and merchants. Residents can register their household to claim and redeem CDC vouchers, whereas merchants can also register a merchant account as participants in the program."
-  image: assets/images/ecommerce.png
+  image: assets/images/CDC.png
   link: https://github.com/janicegali226-cmyk/CDC-Voucher-System
-  tags: [Python, API Design, Flet, Flask]
+  tags: [Python, UI Design, Flet, Flask]
