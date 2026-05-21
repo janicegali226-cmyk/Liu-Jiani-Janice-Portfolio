@@ -28,3 +28,9 @@
   image: assets/images/CDC.png
   link: https://github.com/janicegali226-cmyk/CDC-Voucher-System
   tags: [Python, UI Design, Flet, Flask]
+
+- title: "Strategic Airline Industry Operations and Cost Monitoring Dashboard during Iran Conflict 2026"
+  excerpt: "This interactive Aviation Data Dashboard, built with Next.js and React, tracks real-time flight telemetry and global jet fuel market data to analyze how geopolitical crises impact civil aviation costs. It features an automated route-specific prediction model deployed on Vercel, transforming raw volatility into actionable cost-management insights for corporate travel managers."
+  image: assets/images/CDC.png
+  link: https://github.com/janicegali226-cmyk/Liu-Jiani_Aviation-Dashboard
+  tags: [Dashboard Building, UI Design, Next.js, Data Scraping, Vercel]
